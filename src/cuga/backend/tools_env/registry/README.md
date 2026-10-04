@@ -202,7 +202,7 @@ trmServices:
 ### Complete Sample Configuration
 
 ```yaml
-# config/sample_complete.yaml
+# config/mcp_servers.yaml
 
 # OpenAPI Services
 services:
